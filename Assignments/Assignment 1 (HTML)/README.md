@@ -14,6 +14,7 @@ Form related tasks will be done next week, so you do not need to attempt them ri
 Give your best. Your journey has just begun, and I believe in every one of you.
 
 -  Muhammad Umair Ahmad
+
 ## Images Provided To Code
 If these images do not load properly there available in assets folder, they will appear clearer there.
 It's better to code HTML CSS using and image, so Sir has provided us these images:
