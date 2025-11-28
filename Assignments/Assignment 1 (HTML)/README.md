@@ -24,24 +24,24 @@ It's better to code HTML CSS using and image, so Sir has provided us these image
 
 #### about.html
 
-![](https://i.ibb.co/Wp3vr7wg/2-about.png)
+![](https://github.com/shery7310/Web-and-Mobile-Application-Development-Saylani-Mass-IT-SMIT/blob/main/Assignments/Assignment%201%20(HTML)/Asssets/2%20-%20about.png)
 
 #### gallery.html
 
-![](https://i.ibb.co/kVk2fn1K/3-gallery.png)
+![](https://github.com/shery7310/Web-and-Mobile-Application-Development-Saylani-Mass-IT-SMIT/blob/main/Assignments/Assignment%201%20(HTML)/Asssets/3%20-%20gallery.png)
 
 #### media.html
 
-![](https://i.ibb.co/7Jrgb2Pr/4-media.png)
+![](https://github.com/shery7310/Web-and-Mobile-Application-Development-Saylani-Mass-IT-SMIT/blob/main/Assignments/Assignment%201%20(HTML)/Asssets/4%20-%20media.png)
 
 #### contact.html
 
-![](https://i.ibb.co/zV9xjdg2/5-contact.png)
+![](https://github.com/shery7310/Web-and-Mobile-Application-Development-Saylani-Mass-IT-SMIT/blob/main/Assignments/Assignment%201%20(HTML)/Asssets/5%20-%20contact.png)
 
 #### login.html
 
-![](https://i.ibb.co/ZRtS5PmB/6-login.png)
+![](https://github.com/shery7310/Web-and-Mobile-Application-Development-Saylani-Mass-IT-SMIT/blob/main/Assignments/Assignment%201%20(HTML)/Asssets/6%20-%20login.png)
 
 #### register.html
 
-![](https://i.ibb.co/s9SHYKQd/7-register.png)
+![](https://github.com/shery7310/Web-and-Mobile-Application-Development-Saylani-Mass-IT-SMIT/blob/main/Assignments/Assignment%201%20(HTML)/Asssets/7%20-%20register.png)
