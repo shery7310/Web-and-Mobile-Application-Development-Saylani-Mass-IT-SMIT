@@ -15,10 +15,10 @@ Give your best. Your journey has just begun, and I believe in every one of you.
 
 -  Muhammad Umair Ahmad
 ## Images Provided To Code
+If these images do not load properly there available in assets folder, they will appear clearer there.
+It's better to code HTML CSS using and image, so Sir has provided us these images:
 
 #### index.html
-
-It's better to code HTML CSS using and image, so Sir has provided us these images:
 
 ![](https://i.ibb.co/WNzm2fJP/1-index.png)
 
