@@ -20,8 +20,7 @@ It's better to code HTML CSS using and image, so Sir has provided us these image
 
 #### index.html
 
-![](https://i.ibb.co/WNzm2fJP/1-index.png)
-<a href="https://github.com/shery7310/Web-and-Mobile-Application-Development-Saylani-Mass-IT-SMIT/blob/main/Assignments/Assignment%201%20(HTML)/Asssets/1%20-%20index.png">index.html image</a> 
+![](https://github.com/shery7310/Web-and-Mobile-Application-Development-Saylani-Mass-IT-SMIT/blob/main/Assignments/Assignment%201%20(HTML)/Asssets/1%20-%20index.png)
 
 #### about.html
 
