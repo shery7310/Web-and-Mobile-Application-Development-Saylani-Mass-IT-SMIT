@@ -1,4 +1,4 @@
-### CSS assignment 1
+### CSS Assignment 1
 
 Dear Students,
 
